@@ -10,6 +10,9 @@ All amounts displayed in INR (₹)
 # Project Structure
 Expenses-Tracker/
 ├── index.html      # App structure and layout
+
 ├── style.css       # Styling
+
 ├── script.js       # App logic (add/delete transactions, totals, localStorage)
+
 └── README.md
