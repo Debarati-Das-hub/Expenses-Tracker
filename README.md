@@ -8,7 +8,7 @@ Delete any transaction with a single click
 Data persists across page reloads using localStorage
 All amounts displayed in INR (₹)
 # Project Structure
-Expenses-Tracker/
+Expenses-Tracker     
 
 ├── index.html   # App structure and layout
 ├── style.css    # Styling
